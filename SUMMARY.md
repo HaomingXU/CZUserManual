@@ -7,6 +7,7 @@
 ## CitiZons-Creative
 
 * [简介](citizons-creative/introduction.md)
+* [建设须知](citizons-creative/jian-she-xu-zhi.md)
 
 ## CitiZons-Survival
 
