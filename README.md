@@ -18,7 +18,7 @@ description: 首先，我们要知道，CitiZons是什么。
 
 官方设立的主要群:
 
- Discord频道:[https://discord.gg/c6gebFY](https://discord.gg/c6gebFY)
+ Discord频道: [https://discord.gg/c6gebFY](https://discord.gg/c6gebFY)
 
 ［⑨周目］72346637
 
