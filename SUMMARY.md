@@ -2,12 +2,13 @@
 
 * [首页](README.md)
 * [入境](join-in.md)
+* [权限](permission.md)
 
 ## CitiZons-Creative
 
-* [Untitled](citizons-creative/untitled.md)
+* [简介](citizons-creative/introduction.md)
 
 ## CitiZons-Survival
 
-* [Untitled](citizons-survival/untitled.md)
+* [简介](citizons-survival/introduction.md)
 
