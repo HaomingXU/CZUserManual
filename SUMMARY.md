@@ -13,3 +13,8 @@
 
 * [简介](citizons-survival/introduction.md)
 
+## Plugins
+
+* [WorldEdit](plugins/worldedit.md)
+* [GroupManager](plugins/groupmanager.md)
+
