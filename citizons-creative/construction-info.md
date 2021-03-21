@@ -8,7 +8,7 @@
 
 一、放置df-roads模组中的lantern方块（下图中路灯即为lantern方块）；
 
-![lantern&#x65B9;&#x5757;](../.gitbook/assets/image%20%284%29.png)
+![lantern&#x65B9;&#x5757;](../.gitbook/assets/image%20%284%29%20%284%29.png)
 
 二、骑猪、骑马等一切与实体互动的行为；
 
