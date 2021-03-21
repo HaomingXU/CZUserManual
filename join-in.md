@@ -4,7 +4,7 @@ description: 在开始在CitiZons的游戏之前，您需要确保您已通过�
 
 # 入境
 
-### 参与CitiZons入境审核，您需要具备以下条件:
+#### 参与CitiZons入境审核，您需要具备以下条件:
 
 1 拥有一份Minecraft国际版正版副本
 
@@ -26,7 +26,7 @@ description: 在开始在CitiZons的游戏之前，您需要确保您已通过�
 
 
 
-### 入境审核通过名单
+## 入境审核通过名单
 
 | Minecraft账户名 | QQ | UUID | 通过日期 |
 | :--- | :--- | :--- | :--- |
