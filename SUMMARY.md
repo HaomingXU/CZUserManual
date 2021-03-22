@@ -13,7 +13,7 @@
 
 * [简介](citizons-survival/introduction.md)
 * [生存规则](citizons-survival/rules.md)
-* [铁路系统](citizons-survival/tie-lu-xi-tong.md)
+* [铁路系统](citizons-survival/railway-system.md)
 
 ## Plugins
 
